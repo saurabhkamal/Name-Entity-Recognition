@@ -1,6 +1,6 @@
 # Name-Entity-Recognition
 
-## Workflows
+## Workflow
 
 - constants
 - config_entity
